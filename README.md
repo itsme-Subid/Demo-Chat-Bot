@@ -2,7 +2,7 @@
 
 # [Demo Chat Bot](https://demo-chat-bot.vercel.app/)
 
-![](https://raw.githubusercontent.com/itsme-Subid/Demo-Chat-Bot/main/preview.webp)
+![](https://raw.githubusercontent.com/itsme-Subid/Demo-Chat-Bot/master/preview.webp)
 ![](https://img.shields.io/github/languages/top/itsme-Subid/Demo-Chat-Bot?style=for-the-badge)
 ![](https://img.shields.io/github/languages/count/itsme-Subid/Demo-Chat-Bot?style=for-the-badge)
 ![](https://img.shields.io/github/languages/code-size/itsme-Subid/Demo-Chat-Bot?style=for-the-badge)
